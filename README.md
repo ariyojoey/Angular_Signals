@@ -1,3 +1,4 @@
+An Angular 16 app showing the basics of angular signals
 # AngularSignals
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0-rc.1.
